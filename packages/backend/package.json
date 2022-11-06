@@ -1,0 +1,16 @@
+{
+  "name": "@atr/template",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "scripts": {
+    "build:ms:atr": "yarn nest build ms-template",
+    "start:ms:atr": "ts-node -r tsconfig-paths/register apps/ms-template/src/main.ts"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
