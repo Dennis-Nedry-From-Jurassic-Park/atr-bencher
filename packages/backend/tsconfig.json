@@ -72,8 +72,8 @@
     "*.test.ts"
   ],
   "paths": {
-    "@ms-template/*": [
-      "apps/ms-template/src/*"
+    "@ms-bencher/*": [
+      "apps/ms-bencher/src/*"
     ]
   }
 }
